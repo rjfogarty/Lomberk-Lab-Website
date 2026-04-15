@@ -28,7 +28,7 @@ Explore recent work from our team highlighting epigenetic regulation in disease 
 
 {%
   include feature.html
-  image="images/triple_code_model.jpg"
+  image="images/triple-code-2.jpg"
   link="research"
   title="Our Research"
   text=text
