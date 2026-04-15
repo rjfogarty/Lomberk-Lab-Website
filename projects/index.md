@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Current projects and collaborations
 ---
 
 # {% include icon.html icon="fa-solid fa-magnifying-glass" %}Current Projects
