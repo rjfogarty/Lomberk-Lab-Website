@@ -3,7 +3,9 @@
 
 # Welcome to the Lomberk Laboratory!
 
-Our lab focuses on translational science to bridge epigenetic and molecular discoveries with the development of novel therapeutic strategies, with a particular emphasis on pancreatic cancer. We are always interested in collaborative opportunities across disciplines, and welcome inquiries from researchers and clinicians. Please feel free to reach out to Dr. Gwen Lomberk to explore potential partnerships.
+Our lab investigates how epigenomic regulators, including chromatin-modifying enzymes and remodeling complexes, control gene expression programs downstream of oncogenic signaling, shape DNA damage responses, and drive disease progression, with particular interest in pancreatic cancer. Our focus on translational science aims to bridge mechanistic discoveries with the development of novel therapeutic strategies. 
+
+We are always interested in collaborative opportunities across disciplines, and welcome inquiries from researchers and clinicians. Please feel free to reach out to Dr. Gwen Lomberk to explore potential partnerships.
 
 {% include section.html %}
 
