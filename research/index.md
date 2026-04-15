@@ -5,14 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
-
-
-
-#{% include section.html %}
-
-
-## All
+# {% include icon.html icon="fa-solid fa-microscope" %}Our Publications
 
 {% include search-box.html %}
 
