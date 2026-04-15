@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-magnifying-glass" %}Current Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab investigates how epigenomic regulators, including chromatin-modifying enzymes and remodeling complexes, control gene expression programs downstream of oncogenic signaling, shape DNA damage responses, and drive disease progression, with particular interest in pancreatic cancer.
 
 {% include search-info.html %}
 
