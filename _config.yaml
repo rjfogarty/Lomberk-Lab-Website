@@ -11,7 +11,7 @@ proofer: false
 
 # front matter defaults
 defaults:
-  # all markdown files
+  # all markdown files 
   - scope:
       path: ""
     values:
