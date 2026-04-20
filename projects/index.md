@@ -19,6 +19,4 @@ KRAS mutations occur in over 90% of PDAC tumors. These mutations are often early
 
 {% include section.html %}
 
-## Collaborative Projects
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="!group" %}
