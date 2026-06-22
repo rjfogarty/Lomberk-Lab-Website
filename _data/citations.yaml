@@ -20,6 +20,47 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/J.SURG.2025.109912
+  title: Development and implementation of an innovative mentoring committee for early-career
+    faculty members
+  authors:
+  - Samantha P. Leonard
+  - Philip N. Redlich
+  - Tracy S. Wang
+  - Brian D. Lewis
+  - Ryan Spellecy
+  - Gwen Lomberk
+  - Terri A. deRoon-Cassini
+  - Robert Treat
+  - Douglas B. Evans
+  publisher: Surgery
+  date: '2026-03-01'
+  link: https://doi.org/hb8cht
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FCELL.2026.1748541
+  title: PRMT5 inhibition triggers functional ATM deficiency and sensitizes pancreatic
+    cancer to CHK1 blockade
+  authors:
+  - Madeline Dzikowski
+  - Gareth Pollin
+  - Veda Gunia
+  - Shawna Butler
+  - Byambasuren Enkhtuul
+  - Jennifer Gavina Chavez
+  - Michael T. Zimmermann
+  - Angela Mathison
+  - Raul Urrutia
+  - Gwen Lomberk
+  publisher: Frontiers in Cell and Developmental Biology
+  date: '2026-03-11'
+  link: https://doi.org/hb8chv
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1530/EC-25-0688
   title: Transcriptional drivers and endocrine disorders
   authors:
@@ -98,6 +139,161 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/J.JBC.2025.108736
+  title: Abstract 2539 Defining the Molecular Heterogeneity and Functional Impact
+    of Pancreatic Cancer-Associated KRAS Mutations
+  authors:
+  - Gareth Pollin
+  - Angela Mathison
+  - Young-In Chi
+  - Juan Iovanna
+  - Gwen Lomberk
+  - Michael Zimmermann
+  - Raul Urrutia
+  publisher: Journal of Biological Chemistry
+  date: '2025-05-01'
+  link: https://doi.org/hb8chw
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JBC.2025.108729
+  title: Abstract 2418 Dual Inhibition of PRMT5 and CHK1 Drives Cell Cycle Arrest,
+    Transcriptional Reprogramming, and Apoptosis in Pancreatic Ductal Adenocarcinoma
+  authors:
+  - Madeline Dzikowski
+  - Veda Gunia
+  - Guillermo Urrutia
+  - Shawna Butler
+  - Caitlyn Clouse
+  - Gareth Pollin
+  - Angela Mathison
+  - Raul Urrutia
+  - Gwen Lomberk
+  publisher: Journal of Biological Chemistry
+  date: '2025-05-01'
+  link: https://doi.org/hb8chx
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1172/JCI.INSIGHT.173746
+  title: EZH2 deletion does not affect acinar regeneration but restricts progression
+    to pancreatic cancer in mice
+  authors:
+  - Emilie Jaune-Pons
+  - Xiaoyi Wang
+  - Fatemeh Mousavi
+  - Zachary Klassen
+  - Abdessamad El Kaoutari
+  - Kurt Berger
+  - Charis Johnson
+  - Mickenzie B. Martin
+  - Saloni Aggarwal
+  - Sukhman Brar
+  - Muhammad Khalid
+  - Joanna F. Ryan
+  - Parisa Shooshtari
+  - Angela J. Mathison
+  - Nelson Dusetti
+  - Raul Urrutia
+  - Gwen Lomberk
+  - Christopher L. Pin
+  publisher: JCI Insight
+  date: '2024-12-31'
+  link: https://doi.org/hb8chz
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JBC.2025.108734
+  title: Abstract 2504 Phosphorylation of PRMT5-MEP50 Methylosome Regulates Cytoplasmic
+    Stress Granule Formation in Pancreatic Cancer
+  authors:
+  - Gareth Pollin
+  - Young-In Chi
+  - Juan Iovanna
+  - Angela Mathison
+  - Elise Leverence
+  - Gwen Lomberk
+  - Raul Urrutia
+  publisher: Journal of Biological Chemistry
+  date: '2025-05-01'
+  link: https://doi.org/hb8ch2
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1165/RCMB.2024-0255OC
+  title: Targeting the Epigenetic Regulator CBX5 Promotes Fibroblast Metabolic Reprogramming
+    and Inhibits Lung Fibrosis
+  authors:
+  - Jeongmin Hong
+  - Tho X. Pham
+  - Jisu Lee
+  - Ahmed A. Raslan
+  - Kristina Nicolas
+  - Andrei Sharov
+  - Jeffrey A. Meridew
+  - Raul A. Urrutia
+  - Gwen Lomberk
+  - Steven K. Huang
+  - Giovanni Ligresti
+  publisher: American Journal of Respiratory Cell and Molecular Biology
+  date: '2025-06-01'
+  link: https://doi.org/hbfksc
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.CRITREVONC.2025.104900
+  title: The mitochondrial catastrophe induced by NUPR1 inhibitors as a novel strategy
+    to fight against cancer
+  authors:
+  - Juan Iovanna
+  - Jose Luis Neira
+  - Olga Abian
+  - Adrian Velazquez Campoy
+  - Yi Xia
+  - Bruno Rizzuti
+  - Ling Peng
+  - Gwen Lomberk
+  - Raul Urrutia
+  - "Patricia Santofimia-Casta\xF1o"
+  publisher: Critical Reviews in Oncology/Hematology
+  date: '2025-11-01'
+  link: https://doi.org/hb8ch3
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FGENE.2024.1412767
+  title: Ehmt2 inactivation in pancreatic epithelial cells shapes the transcriptional
+    landscape and inflammation response of the whole pancreas
+  authors:
+  - Gareth Pollin
+  - Angela J. Mathison
+  - Thiago M. de Assuncao
+  - Anju Thomas
+  - Atefeh Zeighami
+  - Ann Salmonson
+  - Hongfei Liu
+  - Guillermo Urrutia
+  - Pallavi Vankayala
+  - Stephen J. Pandol
+  - Johnny C. Hong
+  - Michael T. Zimmermann
+  - Juan Iovanna
+  - Victor X. Jin
+  - Raul Urrutia
+  - Gwen Lomberk
+  publisher: Frontiers in Genetics
+  date: '2024-06-14'
+  link: https://doi.org/hb8ch4
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.03.14.584700
   title: EHMT2 Inactivation in Pancreatic Epithelial Cells Shapes the Transcriptional
     Landscape and Inflammation Response of the Whole Pancreas
@@ -120,6 +316,40 @@
   publisher: openRxiv
   date: '2024-03-16'
   link: https://doi.org/hbxbqv
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1124/JPET.457.972460
+  title: Exploring the Synergy of G9a and ATM/ATR Pathway Interactions as a Precision
+    Treatment Strategy in ATM-deficient Pancreatic Ductal Adenocarcinoma
+  authors:
+  - Madeline M. Dzikowski
+  - Gareth Pollin
+  - Thiago Milech de Assuncao
+  - Veda Gunia
+  - Elise Leverence
+  - Angela Mathison
+  - Gwen Lomberk
+  publisher: The Journal of Pharmacology and Experimental Therapeutics
+  date: '2024-06-01'
+  link: https://doi.org/hb8ch5
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21037/JGO-24-326
+  title: Mutant KRAS inhibitors enter the scene of precision therapeutics for pancreatic
+    cancer
+  authors:
+  - Gareth Pollin
+  - Gwen A. Lomberk
+  - Angela J. Mathison
+  - Michael T. Zimmermann
+  - Raul Urrutia
+  publisher: Journal of Gastrointestinal Oncology
+  date: '2024-08-01'
+  link: https://doi.org/hb8ch6
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -166,50 +396,6 @@
   publisher: openRxiv
   date: '2023-09-07'
   link: https://doi.org/hbxbqx
-  orcid: 0000-0001-5463-789X
-  gwen-lomberk: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2023.10.022
-  title: A multi-layered computational structural genomics approach enhances domain-specific
-    interpretation of Kleefstra syndrome variants in EHMT1
-  authors:
-  - Young-In Chi
-  - "Salom\xE3o D. Jorge"
-  - Davin R. Jensen
-  - Brian C. Smith
-  - Brian F. Volkman
-  - Angela J. Mathison
-  - Gwen Lomberk
-  - Michael T. Zimmermann
-  - Raul Urrutia
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2023-01-01'
-  link: https://doi.org/hbxbqz
-  orcid: 0000-0001-5463-789X
-  gwen-lomberk: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.04.28.536249
-  title: Beyond Structural Bioinformatics for Genomics with Dynamics Characterization
-    of an Expanded KRAS Mutational Landscape
-  authors:
-  - Brian D. Ratnasinghe
-  - Neshatul Haque
-  - Jessica B. Wagenknecht
-  - Davin R. Jensen
-  - Guadalupe V. Esparza
-  - Elise N. Leverence
-  - Thiago Milech De Assuncao
-  - Angela J. Mathison
-  - Gwen Lomberk
-  - Brian C. Smith
-  - Brian F. Volkman
-  - Raul Urrutia
-  - Michael T. Zimmermann
-  publisher: openRxiv
-  date: '2023-04-28'
-  link: https://doi.org/hbxbq2
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -317,6 +503,26 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/J.BBI.2024.01.091
+  title: Feasibility of a mindfulness intervention on sleep disturbance, immune function,
+    and clinical outcomes in hematopoietic stem cell transplant recipients
+  authors:
+  - Elisabeth Henley
+  - Hannah Uttley
+  - Keayra Morris
+  - Melinda Stolley
+  - Anita D'Souza
+  - Michael Irwin
+  - Steven Cole
+  - Gwen Lomberk
+  - Jennifer Knight
+  publisher: Brain, Behavior, and Immunity
+  date: '2023-11-01'
+  link: https://doi.org/hb8ch7
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1053/j.gastro.2022.10.011
   title: G9a Modulates Lipid Metabolism in CD4 T Cells to Regulate Intestinal Inflammation
   authors:
@@ -351,6 +557,16 @@
   publisher: Gastroenterology
   date: '2023-02-01'
   link: https://doi.org/hbxbq6
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000995814701554
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000995814701554
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -423,6 +639,30 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/J.ANNONC.2023.09.2611
+  title: 1662P Targeting stress granule formation as a synthetic lethality strategy
+    for kras-induced pancreatic cancer initiation
+  authors:
+  - P. Santofimia
+  - N. Fraunhoffer
+  - X. Liu
+  - I. Fernandez-Bessone
+  - M. Pasca di Magliano
+  - S. Audebert
+  - L. Camoin
+  - M. Modesti
+  - G. Lomberk
+  - R. Urrutia
+  - P. Soubeyran
+  - J.L. Neira
+  - J.L. Iovanna
+  publisher: Annals of Oncology
+  date: '2023-10-01'
+  link: https://doi.org/hb8ch8
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1042/BSR20231093
   title: Writers and readers of H3K9me2 form distinct protein networks during the
     cell cycle that include candidates for H3K9 mimicry
@@ -490,6 +730,22 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1096/FASEBJ.2022.36.S1.R4969
+  title: "Combined Inhibition of the Ataxia\u2010telangiectasia mutated and Rad3\u2010\
+    related Pathway and the G9a Methyltransferase Synergize to Reduce Pancreatic Cancer\
+    \ Cell Growth"
+  authors:
+  - Daniela Rodrigues de Oliveira
+  - Thiago Milech de Assuncao
+  - Guillermo Urrutia
+  - Gwen Lomberk
+  publisher: The FASEB Journal
+  date: '2022-05-01'
+  link: https://doi.org/hb8ch9
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/prot.26219
   title: "Computational modeling reveals key molecular properties and dynamic behavior\
     \ of disruptor of telomeric silencing 1\u2010like (\n                    <i>DOT1L</i>\n\
@@ -514,25 +770,106 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.21203/rs.3.rs-2003235/v1
-  title: KLF5 and p53 comprise an incoherent feed-forward loop directing cell-fate
-    decisions following stress
+- id: doi:10.1096/FASEBJ.2022.36.S1.R5656
+  title: Defining the Mutational Landscape That Affects the Histone Demethylase KDM6A/UTX
+    in Human Cancer
   authors:
-  - Yizeng Yang
-  - Dharmendra Bhargava
-  - Xiao Chen
-  - Taicheng Zhou
-  - Gizem Dursuk
-  - Wenpeng Jiang
-  - Jinshen Wang
-  - Zhen Zong
-  - Sharyn Katz
+  - "Young\u2010In Chi"
+  - Timothy J. Stodola
+  - Thiago Milech de Assuncao
+  - Brian Volkman
+  - Brian Smith
+  - Angela J. Mathison
+  - Gwen Lomberk
+  - Michael T. Zimmermann
+  - Raul Urrutia
+  publisher: The FASEB Journal
+  date: '2022-05-01'
+  link: https://doi.org/gp52sz
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1096/FASEBJ.2022.36.S1.R5762
+  title: Epigenomic mechanisms used by KrasG12D to regulate inflammatory gene clusters
+    in epithelial pancreatic cancer cells, which are critical for reprogramming the
+    tumor microenvironment
+  authors:
+  - Meijun Du
+  - Jenica L. Abrudan
+  - Guillermo Urrutia
+  - Thiago Milech de Assuncao
+  - Angela J. Mathison
+  - Michael T. Zimmermann
   - Gwen Lomberk
   - Raul Urrutia
-  - Jonathan Katz
-  publisher: Springer Science and Business Media LLC
-  date: '2022-09-16'
-  link: https://doi.org/hbxbrf
+  publisher: The FASEB Journal
+  date: '2022-05-01'
+  link: https://doi.org/g6k29t
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1096/FASEBJ.2022.36.S1.R5587
+  title: Functional Inferences Derived from Defining the Interactome of H3K9me2 Writers
+    and Readers
+  authors:
+  - Gareth Pollin
+  - Thiago Milech de Assuncao
+  - Gwen Lomberk
+  - Raul Urrutia
+  publisher: The FASEB Journal
+  date: '2022-05-01'
+  link: https://doi.org/hb8cjb
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1096/FASEBJ.2022.36.S1.R5141
+  title: "G9a Responds to KRAS\u2010Mediated Replication Stress by Increased Origin\
+    \ Licensing"
+  authors:
+  - Anju Thomas
+  - Thiago Milech de Assuncao
+  - Gwen Lomberk
+  publisher: The FASEB Journal
+  date: '2022-05-01'
+  link: https://doi.org/hb8cjc
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1096/FASEBJ.2022.36.S1.0R678
+  title: Inhibition of PRMT5 Disrupts Cell Cycle Progression and DNA Damage Signaling,
+    Revealing a Potential Novel Combination Therapy for Pancreatic Cancer
+  authors:
+  - Lishu He
+  - Guillermo Urrutia
+  - Gwen Lomberk
+  publisher: The FASEB Journal
+  date: '2022-05-01'
+  link: https://doi.org/hb8cjd
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1096/FASEBJ.2022.36.S1.R5710
+  title: Integrative Modeling, Molecular Mechanics, and Molecular Dynamics Evaluation
+    of Genomics Variants in KMT2C (MLL3), a Gene Involved in Kleefstra Syndrome Type
+    2
+  authors:
+  - Salomao D. Jorge
+  - "Young\u2010In Chi"
+  - Thiago Milech de Assuncao
+  - Angela J. Mathison
+  - Brian Volkman
+  - Brian Smith
+  - Gwen Lomberk
+  - Michael T. Zimmermann
+  - Raul Urrutia
+  publisher: The FASEB Journal
+  date: '2022-05-01'
+  link: https://doi.org/hb8cjf
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -619,6 +956,44 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1096/FASEBJ.2022.36.S1.R5476
+  title: "To ChIP, or to CUT, that is the question: Comparative Evaluation of NextGen\
+    \ Methodologies for Studying the genome\u2010wide distribution of Histone H3 Lysine\
+    \ 9 di\u2010methyl mark in pancreatic cells"
+  authors:
+  - Guillermo Urrutia
+  - Jenica L. Abrudan
+  - Meijun Du
+  - Thiago Milech de Assuncao
+  - Angela J. Mathison
+  - Michael T. Zimmermann
+  - Gwen Lomberk
+  - Raul Urrutia
+  publisher: The FASEB Journal
+  date: '2022-05-01'
+  link: https://doi.org/hb8cjg
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1096/FASEBJ.2022.36.S1.R5543
+  title: "Transcriptional Landscape Established by the Euchromatic Histone\u2010lysine\
+    \ N\u2010methyltransferase Pathway During Pancreas Ontogenesis and Pancreatitis"
+  authors:
+  - Raul Urrutia
+  - Ann Salmonson
+  - Guillermo Urrutia
+  - Thiago Milech de Assuncao
+  - Michael T. Zimmermann
+  - Angela J. Mathison
+  - Gwen Lomberk
+  publisher: The FASEB Journal
+  date: '2022-05-01'
+  link: https://doi.org/g7fk79
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3389/fcell.2021.735107
   title: "Collateral Victim or Rescue Worker?\u2014The Role of Histone Methyltransferases\
     \ in DNA Damage Repair and Their Targeting for Therapeutic Opportunities in Cancer"
@@ -676,6 +1051,16 @@
   publisher: EMBO Molecular Medicine
   date: '2021-05-07'
   link: https://doi.org/gjw52c
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000649085000552
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000649085000552
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -898,6 +1283,28 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1164/AJRCCM-CONFERENCE.2021.203.1_MEETINGABSTRACTS.A1144
+  title: The Epigenetic Repressor CBX5 Drives Fibroblast Metabolic Reprograming and
+    Lung Fibrogenesis
+  authors:
+  - J. Lee
+  - T.X. Pham
+  - J. Guan
+  - N. Caporarello
+  - J.A. Meridew
+  - K.M. Choi
+  - D. Jones
+  - S.K. Huang
+  - G.A. Lomberk
+  - R.A. Urrutia
+  - G. Ligresti
+  publisher: C9. C009 MODULATORS OF LUNG INJURY AND REPAIR
+  date: '2021-05-01'
+  link: https://doi.org/hb8cjh
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2020.04.09.033456
   title: "A GATA6-centered gene regulatory network involving HNFs and \u0394Np63 controls\
     \ plasticity and immune escape in pancreatic cancer"
@@ -960,6 +1367,22 @@
   publisher: PLOS ONE
   date: '2020-02-06'
   link: https://doi.org/hbxbrv
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1096/FASEBJ.2020.34.S1.05341
+  title: Gemcitabine Exposure Induces Epigenomic Remodeling in Pancreatic Cancer Cells
+    during Resistance Development
+  authors:
+  - Guillermo Urrutia
+  - Nelson Dusetti
+  - Juan Iovanna
+  - Raul Urrutia
+  - Gwen Lomberk
+  publisher: The FASEB Journal
+  date: '2020-04-01'
+  link: https://doi.org/hb8cjj
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -1070,24 +1493,6 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/638395
-  title: "Discovery, Expression, Cellular Localization, and Molecular Properties of\
-    \ a Novel, Alternative Spliced HP1\u03B3 Isoform, Lacking the Chromoshadow Domain"
-  authors:
-  - Angela Mathison
-  - Thiago Milech De Assuncao
-  - Nikita R. Dsouza
-  - Monique Williams
-  - Michael T. Zimmermann
-  - Gwen Lomberk
-  - Raul Urrutia
-  publisher: openRxiv
-  date: '2019-05-14'
-  link: https://doi.org/gk2nxm
-  orcid: 0000-0001-5463-789X
-  gwen-lomberk: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.jcmgh.2018.08.009
   title: "Disruption of FOXP3\u2013EZH2 Interaction Represents a Pathobiological Mechanism\
     \ in Intestinal Inflammation"
@@ -1149,6 +1554,37 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1158/1538-7445.AM2019-4163
+  title: 'Abstract 4163: Genomic variation in PDAC-predisposing genes identified using
+    the MCW germline exome panel'
+  authors:
+  - Jenica Abrudan
+  - Susan Tsai
+  - Wendy Demos
+  - Michael T. Zimmermann
+  - Michael Tschannen
+  - Jennifer Geurts
+  - Angela Mathison
+  - Gwen Lomberk
+  - Douglas Evans
+  - Raul Urrutia
+  publisher: Cancer Research
+  date: '2019-07-01'
+  link: https://doi.org/hb8cjk
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000467106003346
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000467106003346
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/prot.25752
   title: "Modeling post\u2010translational modifications and cancer\u2010associated\
     \ mutations that impact the heterochromatin protein 1\u03B1\u2010importin \u03B1\
@@ -1200,6 +1636,16 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000450011105173
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000450011105173
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/mcs.a002899
   title: 'Co-occurrence of a maternally inherited <i>DNMT3A</i> duplication and a
     paternally inherited pathogenic variant in <i>EZH2</i> in a child with growth
@@ -1220,6 +1666,39 @@
   publisher: Molecular Case Studies
   date: '2018-05-25'
   link: https://doi.org/hbxbr6
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/IBD/IZY019.031
+  title: 15 DISRUPTION OF FOXP3-EZH2 INTERACTION BY GENETIC MUTATION OR SIGNALING-INDUCED
+    INACTIVATION REPRESENTS A NOVEL PATHOBIOLOGICAL MECHANISM IN INFLAMMATORY BOWEL
+    DISEASE
+  authors:
+  - Adebowale O Bamidele
+  - Phyllis A Svingen
+  - Mary R Sagstetter
+  - Michelle Gonzalez
+  - Olga F Sarmento
+  - Manuel B Braga Neto
+  - Jessica J Friton
+  - Subra Kugathasan
+  - Gwen Lomberk
+  - Raul A Urrutia
+  - William A Faubion
+  publisher: Inflammatory Bowel Diseases
+  date: '2018-01-18'
+  link: https://doi.org/hb8cjm
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000436985002506
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000436985002506
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -1336,24 +1815,12 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/277384
-  title: Inactivation of NUPR1 promotes cell death by coupling ER-stress responses
-    with necrosis
-  authors:
-  - "Patricia Santofimia-Casta\xF1o"
-  - Wenjun Lan
-  - Jennifer Bintz
-  - Odile Gayet
-  - Alice Carrier
-  - Gwen Lomberk
-  - "Jos\xE9 Luis Neira"
-  - "Antonio Gonz\xE1lez"
-  - Raul Urrutia
-  - Philippe Soubeyran
-  - Juan Iovanna
-  publisher: openRxiv
-  date: '2018-03-06'
-  link: https://doi.org/gkwrvs
+- id: wosuid:WOS:000459341003228
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000459341003228
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -1375,6 +1842,36 @@
   publisher: Scientific Reports
   date: '2018-10-10'
   link: https://doi.org/hbxbsb
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000459341003226
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000459341003226
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000436986700006
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000436986700006
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000436986700183
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000436986700183
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -1425,6 +1922,16 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000400372507325
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000400372507325
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/1541-7786.MCR-17-0063
   title: Combined AURKA and H3K9 Methyltransferase Targeting Inhibits Cell Growth
     By Inducing Mitotic Catastrophe
@@ -1445,6 +1952,37 @@
   publisher: Molecular Cancer Research
   date: '2017-08-01'
   link: https://doi.org/gbr9v4
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0016-5085(17)33324-3
+  title: Disruption of Epigenetic Pathways in Regulatory T Cells by FOXP3 Mutations
+    and Pro-Inflammatory Signals During Inflammatory Bowel Disease
+  authors:
+  - Adebowale O. Bamidele
+  - Phyllis Svingen
+  - Guilherme Piovezani Ramos
+  - Mary Sagstetter
+  - Olga F. Sarmento
+  - Michelle Gonzalez
+  - Gwen Lomberk
+  - Raul Urrutia
+  - Subra Kugathasan
+  - William Faubion
+  publisher: Gastroenterology
+  date: '2017-04-01'
+  link: https://doi.org/hb8cjn
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000412089800238
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000412089800238
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -1527,6 +2065,59 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1158/1538-7445.AM2017-4396
+  title: 'Abstract 4396: Multiomics assessment of the cancer and stromal compartments
+    of patient-derived pancreatic xenografts reveals clinically-relevant subtypes
+    and novel targeted therapies'
+  authors:
+  - Remy Nicolle
+  - Yuna Blum
+  - Laetitia Marisa
+  - Celine Loncle
+  - Odile Gayet
+  - Vincent Moutardier
+  - Olivier Turrini
+  - Marc Giovannini
+  - Benjamin Bian
+  - Martin Bigonnet
+  - Marion Rubis
+  - Nabila Elarouci
+  - Lucile Armenoult
+  - Mira Ayadi
+  - Pauline Duconseil
+  - Mohamed Gasmi
+  - Mehdi Ouaissi
+  - "Aur\xE9lie Maignan"
+  - Gwen Lomberk
+  - Jean-Marie Boher
+  - Jacques Ewald
+  - Erwan Bories
+  - Jonathan Garnier
+  - Anthony Goncalves
+  - Flora Poizat
+  - Jean-Luc Raoul
+  - Veronique Secq
+  - Stephane Garcia
+  - Philippe Grandval
+  - Marine Barraud-Blanc
+  - Emmanuelle Norguet
+  - Marine Gilabert
+  - Jean-Robert Delpero
+  - Julie Roques
+  - Ezequiel Calvo
+  - Fabienne Guillaumond
+  - Sophie Vasseur
+  - Raul Urrutia
+  - "Aur\xE9lien de Reyni\xE8s"
+  - Nelson Dusetti
+  - Juan Iovanna
+  publisher: Cancer Research
+  date: '2017-07-01'
+  link: https://doi.org/hb8cjp
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.celrep.2017.11.003
   title: Pancreatic Adenocarcinoma Therapeutic Targets Revealed by Tumor-Stroma Cross-Talk
     Analyses in Patient-Derived Xenografts
@@ -1579,6 +2170,28 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1158/1538-7445.AM2017-4060
+  title: 'Abstract 4060: Pharmacological targeting of the Aurora A and Histone 3 lysine
+    9 methyltransferase pathways in pancreatic cancer induces mitotic catastrophe'
+  authors:
+  - Angela Mathison
+  - Ann Salmonson
+  - Mckenna Missfeldt
+  - Thiago de Assuncao
+  - Jennifer Bintz
+  - Trace Christensen
+  - Sarah Kossak
+  - Asha Nair
+  - Juan Iovanna
+  - Robert Huebert
+  - Gwen Lomberk
+  publisher: Cancer Research
+  date: '2017-07-01'
+  link: https://doi.org/hb8cjq
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3389/fncel.2017.00192
   title: 'Resolution of Cochlear Inflammation: Novel Target for Preventing or Ameliorating
     Drug-, Noise- and Age-related Hearing Loss'
@@ -1627,6 +2240,52 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1158/1538-7445.AM2017-1391
+  title: 'Abstract 1391: The epigenetic regulator, G9a, is a KRAS-inducible protein
+    and its inactivation inhibits PanIN formation by this oncogene'
+  authors:
+  - Angela Mathison
+  - Ann Salmonson
+  - Brooke Paradise
+  - Mckenna Missfeldt
+  - Juan Iovanna
+  - Daniel Billadeau
+  - Raul Urrutia
+  - Gwen Lomberk
+  publisher: Cancer Research
+  date: '2017-07-01'
+  link: https://doi.org/gjr63j
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.AM2017-LB-094
+  title: 'Abstract LB-094: Treatment with the G9a antagonist, BRD4770, inhibits esophageal
+    adenocarcinoma cell growth'
+  authors:
+  - Mabel G. Perez-Oquendo
+  - Gwen A. Lomberk
+  - Raul A. Urrutia
+  - Sarah Kossak
+  - Navtej Buttar
+  - Sounak Gupta
+  publisher: Cancer Research
+  date: '2017-07-01'
+  link: https://doi.org/hb8cjr
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000386978400099
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000386978400099
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00894-015-2874-z
   title: "Evidence supporting a critical contribution of intrinsically disordered\
     \ regions to the biochemical behavior of full-length human HP1\u03B3"
@@ -1663,6 +2322,33 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1200/JCO.2016.34.15_SUPPL.E15736
+  title: Inhibition of pancreatic cancer by targeting the epigenetic EZH2 complex.
+  authors:
+  - Gwen Alyce Lomberk
+  - Angela Mathison
+  - Mckenna Missfeldt
+  - Ann Salmonson
+  - Sarah Kossak
+  - Navtej Buttar
+  - Raul Urrutia
+  publisher: Journal of Clinical Oncology
+  date: '2016-05-20'
+  link: https://doi.org/hb8cjs
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000386978400035
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000386978400035
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/B978-0-12-802389-1.00021-6
   title: Pharmacological and Therapeutic Targeting of Epigenetic Regulators
   authors:
@@ -1671,6 +2357,25 @@
   publisher: Chromatin Signaling and Diseases
   date: '2016-01-01'
   link: https://doi.org/hbxbsg
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1200/JCO.2016.34.15_SUPPL.E15715
+  title: Pharmacological targeting of the Aurora A and histone 3 lysine 9 methyltransferase
+    pathways in pancreatic cancer.
+  authors:
+  - Angela Mathison
+  - Ann Salmonson
+  - Mckenna Missfeldt
+  - Thiago de Assuncao
+  - Jennifer Bintz
+  - Juan Iovanna
+  - Robert Huebert
+  - Gwen Alyce Lomberk
+  publisher: Journal of Clinical Oncology
+  date: '2016-05-20'
+  link: https://doi.org/hb8cjt
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -1694,6 +2399,27 @@
   publisher: Cancer Research
   date: '2016-03-31'
   link: https://doi.org/hbxbsh
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0016-5085(16)33506-5
+  title: 505 Synectin Regulates Liver Fibrosis In Vivo and In Vitro Through Regulated
+    Production of Insulin Like Growth Factor Binding Protein-3 in Hepatic Stellate
+    Cells
+  authors:
+  - Usman Yaqoob
+  - Mary Drinane
+  - Haibin Yu
+  - Di Tang
+  - Enis Kostallari
+  - Gwen Lomberk
+  - Angela Mathison
+  - Raul Urrutia
+  - Vijay Shah
+  publisher: Gastroenterology
+  date: '2016-04-01'
+  link: https://doi.org/hb8cjv
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -1752,6 +2478,26 @@
   publisher: Laboratory Investigation
   date: '2015-06-01'
   link: https://doi.org/f7dc34
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000363324000301
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000363324000301
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000363324000245
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000363324000245
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -1823,6 +2569,27 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1097/NMC.0000000000000165
+  title: Hydrocortisone Cream to Reduce Perineal Pain after Vaginal Birth
+  authors:
+  - Margaret Manfre
+  - Donita Adams
+  - Gloria Callahan
+  - Patricia Gould
+  - Susan Lang
+  - Holly McCubbins
+  - Amy Mintz
+  - Sommer Williams
+  - Mark Bishard
+  - Amy Dempsey
+  - Marianne Chulay
+  publisher: 'MCN: The American Journal of Maternal/Child Nursing'
+  date: '2015-09-01'
+  link: https://doi.org/f74hhv
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-15-0896
   title: "IL17 Functions through the Novel REG3\u03B2\u2013JAK2\u2013STAT3 Inflammatory\
     \ Pathway to Promote the Transition from Chronic Pancreatitis to Pancreatic Cancer"
@@ -1843,6 +2610,26 @@
   publisher: Cancer Research
   date: '2015-11-15'
   link: https://doi.org/f72nf4
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000363324000185
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000363324000185
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000363324000292
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000363324000292
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -1958,6 +2745,42 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000363324000171
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000363324000171
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.AM2015-2087
+  title: 'Abstract 2087: Regulation of p53 function by KLF5'
+  authors:
+  - Yizeng Yang
+  - Taicheng Zhou
+  - Zhen Zong
+  - Gwen Lomberk
+  - Raul Urrutia
+  - Jonathan Katz
+  publisher: Cancer Research
+  date: '2015-08-01'
+  link: https://doi.org/hb8cjw
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000368375402017
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000368375402017
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s12861-015-0073-x
   title: "The Aurora A-HP1\u03B3 pathway regulates gene expression and mitosis in\
     \ cells from the sperm lineage"
@@ -2062,6 +2885,16 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000344362600223
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000344362600223
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00894-014-2357-7
   title: Evidence supporting the existence of a NUPR1-like family of helix-loop-helix
     chromatin proteins related to, yet distinct from, AT hook-containing HMG proteins
@@ -2121,6 +2954,16 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000344362600378
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000344362600378
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1172/JCI76037
   title: IER3 supports KRASG12D-dependent pancreatic cancer development by sustaining
     ERK1/2 phosphorylation
@@ -2138,6 +2981,16 @@
   publisher: Journal of Clinical Investigation
   date: '2014-09-24'
   link: https://doi.org/f6ndcm
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000344362600237
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000344362600237
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -2219,6 +3072,16 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000322997201391
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000322997201391
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.canlet.2013.05.024
   title: "Corrigendum to \u201CInsights into the epigenetic mechanisms controlling\
     \ pancreatic carcinogenesis\u201D [Cancer Lett. 328 (2) (2012) 212\u2013221]"
@@ -2238,6 +3101,16 @@
   publisher: Cancer Letters
   date: '2013-08-01'
   link: https://doi.org/hbxbsq
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000330468400136
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000330468400136
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -2299,6 +3172,16 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000322997200274
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000322997200274
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.canlet.2012.10.005
   title: Insights into the epigenetic mechanisms controlling pancreatic carcinogenesis
   authors:
@@ -2317,6 +3200,16 @@
   publisher: Cancer Letters
   date: '2013-01-01'
   link: https://doi.org/f4jhwp
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000330252201070
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000330252201070
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -2371,6 +3264,16 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000323851302122
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000323851302122
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.4161/auto.22258
   title: NUPR1 works against the metabolic stress-induced autophagy-associated cell
     death in pancreatic cancer cells
@@ -2418,6 +3321,16 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000330468400145
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000330468400145
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pone.0075311
   title: "Role for Kr\xFCppel-Like Transcription Factor 11 in Mesenchymal Cell Function\
     \ and Fibrosis"
@@ -2444,6 +3357,26 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000329543100314
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000329543100314
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000310360500101
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000310360500101
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1074/jbc.M111.266007
   title: "Detailed Structural-Functional Analysis of the Kr\xFCppel-like Factor 16\
     \ (KLF16) Transcription Factor Reveals Novel Mechanisms for Silencing Sp/KLF Sites\
@@ -2466,6 +3399,76 @@
   publisher: Journal of Biological Chemistry
   date: '2012-03-01'
   link: https://doi.org/fxkvjf
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000306994302231
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000306994302231
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000329543601130
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000329543601130
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000329543601315
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000329543601315
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000310360500100
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000310360500100
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000329543601313
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000329543601313
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000329543601317
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000329543601317
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000329543601135
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000329543601135
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -2513,6 +3516,16 @@
   publisher: Clinical Cancer Research
   date: '2012-07-30'
   link: https://doi.org/hbxbsv
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000329543601312
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000329543601312
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -2567,6 +3580,16 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000310360500183
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000310360500183
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1172/JCI60144
   title: Nuclear protein 1 promotes pancreatic cancer development and protects cells
     from stress by inhibiting apoptosis
@@ -2611,6 +3634,16 @@
   publisher: Clinical Cancer Research
   date: '2012-09-30'
   link: https://doi.org/f43ggh
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000306994300345
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000306994300345
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -2677,6 +3710,26 @@
   publisher: Biochemical Journal
   date: '2011-03-29'
   link: https://doi.org/crpg75
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000290167300893
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000290167300893
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000290167300489
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000290167300489
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -2763,6 +3816,16 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000290167300486
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000290167300486
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s12029-011-9256-2
   title: Epigenetic Silencing of Tumor Suppressor Genes in Pancreatic Cancer
   authors:
@@ -2770,6 +3833,36 @@
   publisher: Journal of Gastrointestinal Cancer
   date: '2011-02-12'
   link: https://doi.org/dr8gzv
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000291721701106
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000291721701106
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000290167300667
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000290167300667
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000289035600148
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000289035600148
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -2787,6 +3880,66 @@
   publisher: PLoS ONE
   date: '2011-08-18'
   link: https://doi.org/dbx9v9
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000294019200350
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000294019200350
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000290167303605
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000290167303605
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S1262-3636(11)70490-6
+  title: "O2 L\u2019extinction de la biosynth\xE8se d\u2019insuline via l\u2019alt\xE9\
+    ration d\u2019un site de fixation du facteur de transcription KLF11 entra\xEE\
+    ne une forme cong\xE9nitale de diab\xE8te n\xE9onatal"
+  authors:
+  - A. Bonnefond
+  - G. Lomberk
+  - K. Busiah
+  - E. Vaillant
+  - F. Pattou
+  - J. Iovanna
+  - R. Stein
+  - M. Polak
+  - M. Vaxillaire
+  - R. Urrutia
+  - P. Froguel
+  publisher: Diabetes &amp; Metabolism
+  date: '2011-03-01'
+  link: https://doi.org/dcpxdm
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.FERTNSTERT.2011.07.566
+  title: Uterine transcription factor KLF16 regulates endometrial physiology and metabolism
+    via cytochrome p450 enzyme inhibition
+  authors:
+  - R.P. Gada
+  - Z.M. Tabbaa
+  - G.A. Lomberk
+  - N.S. Buttar
+  - R.A. Urrutia
+  - G.S. Daftary
+  publisher: Fertility and Sterility
+  date: '2011-09-01'
+  link: https://doi.org/bwg2k2
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -2882,6 +4035,56 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000275558601161
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000275558601161
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000475844800230
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000475844800230
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000282946600141
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000282946600141
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000475844803820
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000475844803820
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000475844800003
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000475844800003
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1053/j.gastro.2010.05.083
   title: "Kitlow Stem Cells Cause Resistance to Kit/Platelet-Derived Growth Factor\
     \ \u03B1 Inhibitors in Murine Gastrointestinal Stromal Tumors"
@@ -2906,6 +4109,26 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000282946600211
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000282946600211
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000282946600150
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000282946600150
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1159/000320540
   title: Pancreatic Stellate Cell Models for Transcriptional Studies of Desmoplasia-Associated
     Genes
@@ -2924,6 +4147,29 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/S1262-3636(10)70013-6
+  title: "O9 L\u2019Extinction de l\u2019Activit\xE9 du Promoteur du G\xE8ne de l\u2019\
+    Insuline Entra\xEEne une Forme Cong\xE9nitale de Diab\xE8te N\xE9onatal Transitoire"
+  authors:
+  - A. Bonnefond
+  - G. Lomberk
+  - K. Busiah
+  - A. Dechaume
+  - S. Pereira
+  - A. Simon
+  - "H. Cav\xE9"
+  - B. Mignot
+  - M. Polak
+  - R. Urrutia
+  - P. Froguel
+  - M. Vaxillaire
+  publisher: Diabetes &amp; Metabolism
+  date: '2010-03-01'
+  link: https://doi.org/fcpz66
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1159/000280292
   title: The Extracellular Matrix and Cell Migration
   authors:
@@ -2931,6 +4177,16 @@
   publisher: Pancreatology
   date: '2010-04-01'
   link: https://doi.org/btd6nx
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000263609801480
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000263609801480
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -2964,6 +4220,36 @@
   publisher: Pancreatology
   date: '2009-06-01'
   link: https://doi.org/fjd5vw
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000271225300223
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000271225300223
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000275277200373
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000275277200373
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000275277202120
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000275277202120
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -3028,6 +4314,16 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000271225300235
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000271225300235
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1074/jbc.M807791200
   title: "Silencing of the Transforming Growth Factor-\u03B2 (TGF\u03B2) Receptor\
     \ II by Kr\xFCppel-like Factor 14 Underscores the Importance of a Negative Feedback\
@@ -3054,6 +4350,110 @@
   publisher: Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms
   date: '2009-06-01'
   link: https://doi.org/fhc7x7
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000271225300352
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000271225300352
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/01.MPA.0000311854.03796.E5
+  title: A COOPERATIVE MODEL FOR PANCREATIC CANCER
+  authors:
+  - Whitney Evans
+  - Carl Lokko
+  - Martin E. Fernandez-Zapico
+  - Alexandrine Randriamahefa
+  - Gwen Lomberk
+  - Raul Urrutia
+  publisher: Pancreas
+  date: '2008-03-01'
+  link: https://doi.org/cg2xn5
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/01.MPA.0000311855.41914.C8
+  title: "A NEW MOLECULAR MODEL FOR REGULATING THE TGF\u03B2 RECEPTOR II PROMOTER\
+    \ IN PANCREATIC CELLS"
+  authors:
+  - Gwen Lomberk
+  - Jin-San Zhang
+  - Mark J. Truty
+  - Raul Urrutia
+  publisher: Pancreas
+  date: '2008-03-01'
+  link: https://doi.org/d7xzr2
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/01.MPA.0000335369.62631.6F
+  title: "CHARACTERIZATION OF THE TGF\u03B2 MINUS MOUSE REVEALS A ROLE FOR FOXM1 AS\
+    \ A NOVEL PANCREATIC ONCOGENE"
+  authors:
+  - A. Randriamahefa
+  - I. Rolle
+  - A. Grzenda
+  - A. Paul
+  - G. Lomberk
+  - M. Fernandez-Zapico
+  - R. Urrutia
+  publisher: Pancreas
+  date: '2008-11-01'
+  link: https://doi.org/cr882x
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/01.MPA.0000335396.83508.D1
+  title: DISTINCT INFLAMMATORY MEDIATORS REGULATE SURVIVAL OF PANCREATIC CANCER CELLS
+  authors:
+  - Y. Bhardwaj
+  - S. Achra
+  - C. DeMars
+  - S. Ilyas
+  - Z. Rizvi
+  - G. Lomberk
+  - R. Urrutia
+  - N. Buttar
+  publisher: Pancreas
+  date: '2008-11-01'
+  link: https://doi.org/b2jdwr
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000260425400112
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000260425400112
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/01.MPA.0000335371.47384.E8
+  title: KNOCK OUT OF KLF11, A NOVEL TUMOR SUPPRESSOR AND DIABETES GENE, DISPLAYS
+    SIGNS OF PREMATURE AGING WITH ALTERED RESPONSE TO GLUCOSE
+  authors:
+  - S. Rashtak
+  - J. Taggart
+  - C. DeMars
+  - N. Buttar
+  - G. Lomberk
+  - R. Urrutia
+  publisher: Pancreas
+  date: '2008-11-01'
+  link: https://doi.org/b5mk3p
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -3127,6 +4527,16 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000260425400113
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000260425400113
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1159/000134270
   title: Societies
   authors:
@@ -3134,6 +4544,16 @@
   publisher: Pancreatology
   date: '2008-06-01'
   link: https://doi.org/brbgx9
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000260425400124
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000260425400124
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -3153,6 +4573,76 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1097/01.MPA.0000335479.69474.3E
+  title: URSO AND ASPIRIN IN COMBINATION DOWNREGULATE PANCREATIC CANCER CELL SURVIVAL
+  authors:
+  - S. Ilyas
+  - Z. Rizvi
+  - C. DeMars
+  - Y. Bhardwaj
+  - S. Achra
+  - G. Lomberk
+  - N. Buttar
+  - R. Urrutia
+  publisher: Pancreas
+  date: '2008-11-01'
+  link: https://doi.org/b5xpx7
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000245927601090
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000245927601090
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000252179100095
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000252179100095
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/01.MPA.0000297821.67559.A9
+  title: A NOVEL TRANSCRIPTIONAL MECHANISM TO EXPLAIN LONG TERM REPONSES FOR G-PROTEIN
+    COUPLED RECEPTORS WHICH IS DISRUPTED IN PANCREATIC CELL PATHOBIOLOGY
+  authors:
+  - J. S. Zhang
+  - G. Lomberk
+  - R. Urrutia
+  publisher: Pancreas
+  date: '2007-11-01'
+  link: https://doi.org/c56xbc
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/01.MPA.0000297695.14736.5B
+  title: "ABROGATION OF TGF\u03B2 SIGNALING IN THE PANCREAS OF MICE OVEREXPRESSING\
+    \ DOMINANT NEGATIVE TGF\u03B2 RECEPTOR II SHOWS ALTERATION OF ONCOGENIC COMPONENTS\
+    \ OF THE P53 PATHWAY"
+  authors:
+  - W. Evans
+  - C. Lokko
+  - M. E. Fernandez-Zapico
+  - A. Randriamahefa
+  - G. Lomberk
+  - R. Urrutia
+  publisher: Pancreas
+  date: '2007-11-01'
+  link: https://doi.org/cj7xqc
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1159/000103921
   title: Alcohol and Pancreas
   authors:
@@ -3160,6 +4650,19 @@
   publisher: Pancreatology
   date: '2007-07-01'
   link: https://doi.org/c6wjmh
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/01.MPA.0000297707.83348.3D
+  title: DIFFERENT EZH2 ISOFORMS ARE EXPRESSED IN PANCREATIC CELLS
+  authors:
+  - A. L. Grzenda
+  - G. Lomberk
+  - R. Urrutia
+  publisher: Pancreas
+  date: '2007-11-01'
+  link: https://doi.org/c8tnwn
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -3175,6 +4678,16 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000252179100096
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000252179100096
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1159/000099002
   title: Laboratory Skills
   authors:
@@ -3182,6 +4695,26 @@
   publisher: Pancreatology
   date: '2007-05-01'
   link: https://doi.org/cb4qw6
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000245927604319
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000245927604319
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000245927601087
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000245927601087
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -3197,6 +4730,16 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000245927600369
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000245927600369
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1159/000094559
   title: Animal models
   authors:
@@ -3208,6 +4751,17 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1159/000096124
+  title: Clinical Trials
+  authors:
+  - Gwen Lomberk
+  publisher: Pancreatology
+  date: '2006-01-01'
+  link: https://doi.org/cr3tvn
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1159/000090021
   title: Educational Websites - Cell Biology II
   authors:
@@ -3215,6 +4769,17 @@
   publisher: Pancreatology
   date: '2006-04-01'
   link: https://doi.org/dczzb7
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1159/000091819
+  title: "Educational websites \u2014 pathophysiology"
+  authors:
+  - Gwen Lomberk
+  publisher: Pancreatology
+  date: '2006-07-01'
+  link: https://doi.org/d8sbxn
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -3245,6 +4810,37 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1097/00006676-200611000-00225
+  title: ISOLATION OF WD40 PROTEINS AS POTENTIAL CO-REPRESSORS FOR THE TGF-??-INDUCIBLE
+    TUMOR SUPPRESSOR GENE KLF11
+  authors:
+  - Shoichiro Tsuji
+  - Jin-San Zhang
+  - Gwen Lomberk
+  - Martin Fernadez-Zapico
+  - Raul Urrutia
+  publisher: Pancreas
+  date: '2006-11-01'
+  link: https://doi.org/dh9xqq
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/00006676-200611000-00223
+  title: KLF14
+  authors:
+  - M. J. Truty
+  - S. Tsuji
+  - G Lomberk
+  - M Fernandez-Zapico
+  - R Urrutia
+  publisher: Pancreas
+  date: '2006-11-01'
+  link: https://doi.org/cqwxrn
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/gb-2006-7-7-228
   title: ''
   authors:
@@ -3269,6 +4865,17 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1159/000087492
+  title: "Educational websites \u2014 Cell biology I"
+  authors:
+  - Gwen Lomberk
+  publisher: Pancreatology
+  date: '2005-01-01'
+  link: https://doi.org/crfg2v
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1159/000084536
   title: Funding opportunities
   authors:
@@ -3276,6 +4883,16 @@
   publisher: Pancreatology
   date: '2005-01-01'
   link: https://doi.org/cr8dd7
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000228619300524
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000228619300524
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -3302,6 +4919,26 @@
   publisher: Current Opinion in Gastroenterology
   date: '2005-09-01'
   link: https://doi.org/dqz2q8
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000220890202978
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000220890202978
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000221639101311
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000221639101311
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
@@ -3353,6 +4990,40 @@
   gwen-lomberk: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/S0016-5085(03)81765-1
+  title: Regulatory mechanisms of position effect variegation in pancreatic epithelial
+    cancer cells by HP1 isoform modifications
+  authors:
+  - Gwen Callahan
+  - Sharon Delgado
+  - Raul Urrutia
+  publisher: Gastroenterology
+  date: '2003-04-01'
+  link: https://doi.org/b7fgrw
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000089400700109
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000089400700109
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000082879800636
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000082879800636
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/(SICI)1098-2264(199901)24:1<48::AID-GCC7>3.0.CO;2-V
   title: Frequent deletions within FRA7G at 7q31.2 in invasive epithelial ovarian
     cancer
@@ -3369,6 +5040,16 @@
   publisher: Genes, Chromosomes and Cancer
   date: '1999-01-01'
   link: https://doi.org/fwv5d4
+  orcid: 0000-0001-5463-789X
+  gwen-lomberk: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000082879801818
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000082879801818
   orcid: 0000-0001-5463-789X
   gwen-lomberk: true
   plugin: orcid.py
